@@ -696,6 +696,8 @@ toc: true
   inversion code written in MATLAB
 - [MCDisp](https://github.com/xin2zhang/MCDisp): Surface wave dispersion inversion
   using Monte Carlo methohd written in Python
+- [sampleSelectionInversion](https://github.com/X-H-Yang/Sample-selection-Rayleigh-wave-neural-network-inversion):
+  A Sample Selection Method for Neural-Network-Based Rayleigh Wave Inversion
 
 ### Surfave-wave Tomography Workflow
 
